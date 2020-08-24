@@ -8,3 +8,5 @@ Attachments:
 * ProjectDescription.png
 
 The ProjectDesciption is what you need to replicate using your code except the highlighted yellow content
+
+![alt text](https://raw.githubusercontent.com/GuidoFavara/Coursera-HTML5-Final-Projec/master/ProjectDescription.png)
