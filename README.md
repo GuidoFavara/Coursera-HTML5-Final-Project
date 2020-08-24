@@ -9,4 +9,5 @@ Attachments:
 
 The project consist to create a exact web replicate as given except the highlighted yellow content using your own code.
 
+![atext](https://github.com/GuidoFavara/Coursera-HTML5-Final-Project/blob/master/ProjectDescription.png)
 
